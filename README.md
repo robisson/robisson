@@ -6,7 +6,25 @@ I currently work as a Software Architect at Sensedia. I'm mainly involved with c
 
 On linkedin you have more information about the projects I participated and other experiences.
 
+## Contacts
+#### <a href="https://www.robissonoliveira.com.br" target="_blank" title="Robisson Oliveira">www.robissonoliveira.com.br</a>
+<div>
+  <a title="Perfil no Linkedin" href="https://www.linkedin.com/in/robisson/" target="_blank">
+    <img class="social-media-icon" src="https://www.robissonoliveira.com.br/assets/images/linkedin.png" alt="Perfil no Linekdin" width="50">
+  </a>
+  <a title="Perfil no Medium" href="https://medium.com/@robisson" target="_blank">
+    <img class="social-media-icon" src="https://www.robissonoliveira.com.br/assets/images/medium.png" alt="Perfil no Medium" width="50">
+  </a>
+  <a title="Perfil no Twitter" href="https://twitter.com/robissonmkt" target="_blank">
+    <img class="social-media-icon" src="https://www.robissonoliveira.com.br/assets/images/twitter.png" alt="Perfil no Twitter" width="50">
+  </a>
+</div>
+
+<br/>
+
 ## Certifications
+
+<br/>
 <center>
 
 <a href="https://www.credly.com/badges/7097b3ef-32a0-4163-afd9-12ccb6a02780/linked_in_profile" target="_blank" title="CKA: Certified Kubernetes Administrator">
