@@ -60,6 +60,10 @@ On linkedin you have more information about the projects I participated and othe
   <a href="https://www.credly.com/badges/ab62a404-edc6-46d5-abe4-215a170eff92" target="_blank" title="OpenJS Node.js Services Developer">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/nodejs.png" alt="OpenJS Node.js Services Developer" width="150">
 </a>
+</a>
+  <a href="https://www.credential.net/63718ca7-f951-4831-aa3b-0285ad0ed870" target="_blank" title="Google cloud Professional Data Engineer">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/google-data-engineer.png" alt="Google cloud Professional Data Engineer" width="150">
+</a>
 
 
 </center>
