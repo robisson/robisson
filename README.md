@@ -30,40 +30,42 @@ On linkedin you have more information about the projects I participated and othe
 <a href="https://www.credly.com/badges/7097b3ef-32a0-4163-afd9-12ccb6a02780/linked_in_profile" target="_blank" title="CKA: Certified Kubernetes Administrator">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/cka.png" alt="CKA: Certified Kubernetes Administrator" width="150">
 </a>
-  <a href="https://edu.kanban.university/user/58253" target="_blank" title="Kanban System Design KMP I">
+<a href="https://edu.kanban.university/user/58253" target="_blank" title="Kanban System Design KMP I">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/kmpI.png" alt="Kanban System Design KMP I" width="150">
 </a>
-  <a href="https://www.credential.net/4299d73a-4d0b-4f84-8542-db65f2e2275e" target="_blank" title="Google Cloud Certified - Professional Cloud Architect">
+<a href="https://www.credential.net/4299d73a-4d0b-4f84-8542-db65f2e2275e" target="_blank" title="Google Cloud Certified - Professional Cloud Architect">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/gcp-architect-professional.png" alt="Google Cloud Certified - Professional Cloud Architect" width="150">
 </a>
-  <a href="https://www.credly.com/badges/87331985-6c39-415e-838a-b85772a7f818?source=linked_in_profile" target="_blank" title="AZ-303 Microsoft Azure Architect Technologies">
+<a href="https://www.credly.com/badges/87331985-6c39-415e-838a-b85772a7f818?source=linked_in_profile" target="_blank" title="AZ-303 Microsoft Azure Architect Technologies">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/az-303.png" alt="AZ-303 Microsoft Azure Architect Technologies" width="150">
 </a>
-  <a href="https://www.credly.com/badges/84cc1677-9a84-4e89-a31b-fae287c7d890" target="_blank" title="AZ-304 Microsoft Azure Architect Design">
+<a href="https://www.credly.com/badges/84cc1677-9a84-4e89-a31b-fae287c7d890" target="_blank" title="AZ-304 Microsoft Azure Architect Design">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/az-304.png" alt="AZ-304 Microsoft Azure Architect Design" width="150">
 </a>
-  <a href="https://www.credly.com/earner/earned/badge/6547bf79-aa5d-4629-ba06-e96e48dcbcb6" target="_blank" title="Microsoft Certified: Azure Solutions Architect Expert">
+<a href="https://www.credly.com/earner/earned/badge/6547bf79-aa5d-4629-ba06-e96e48dcbcb6" target="_blank" title="Microsoft Certified: Azure Solutions Architect Expert">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="150">
 </a>
-  <a href="https://www.credly.com/badges/d6c09964-0d10-440f-9cdd-9ed44ef0b543" target="_blank" title="AWS Certified Solutions Architect – Professional">
+<a href="https://www.credly.com/badges/d6c09964-0d10-440f-9cdd-9ed44ef0b543" target="_blank" title="AWS Certified Solutions Architect – Professional">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-professional.png" alt="AWS Certified Solutions Architect – Professional" width="150">
 </a>
-  <a href="https://www.credly.com/badges/727592b7-9e97-48be-b3b7-adafef2e2947" target="_blank" title="Microsoft Certified: Azure Developer Associate">
+<a href="https://www.credly.com/badges/727592b7-9e97-48be-b3b7-adafef2e2947" target="_blank" title="Microsoft Certified: Azure Developer Associate">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/az-204.png" alt="Microsoft Certified: Azure Developer Associate" width="150">
 </a>
-  <a href="https://www.credly.com/badges/9bc5cbfa-9131-4f8b-a3a1-2e0bd07587ad" target="_blank" title="AZ-400 Designing and Implementing Microsoft DevOps Solutions">
+<a href="https://www.credly.com/badges/9bc5cbfa-9131-4f8b-a3a1-2e0bd07587ad" target="_blank" title="AZ-400 Designing and Implementing Microsoft DevOps Solutions">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/az-400.png" alt="AZ-400 Designing and Implementing Microsoft DevOps Solutions" width="150">
 </a>
-  <a href="https://www.credly.com/badges/0677f7ec-e770-4f47-831c-dababb7c32bf" target="_blank" title="Microsoft Certified: Azure Devops Engineer Expert">
+<a href="https://www.credly.com/badges/0677f7ec-e770-4f47-831c-dababb7c32bf" target="_blank" title="Microsoft Certified: Azure Devops Engineer Expert">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/azure-devops.png" alt="Microsoft Certified: Azure Devops Engineer Expert" width="150">
 </a>
-  <a href="https://www.credly.com/badges/ab62a404-edc6-46d5-abe4-215a170eff92" target="_blank" title="OpenJS Node.js Services Developer">
+<a href="https://www.credly.com/badges/ab62a404-edc6-46d5-abe4-215a170eff92" target="_blank" title="OpenJS Node.js Services Developer">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/nodejs.png" alt="OpenJS Node.js Services Developer" width="150">
 </a>
-</a>
-  <a href="https://www.credential.net/63718ca7-f951-4831-aa3b-0285ad0ed870" target="_blank" title="Google cloud Professional Data Engineer">
+
+<a href="https://www.credential.net/63718ca7-f951-4831-aa3b-0285ad0ed870" target="_blank" title="Google cloud Professional Data Engineer">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/google-data-engineer.png" alt="Google cloud Professional Data Engineer" width="150">
 </a>
 
-
+<a href="https://www.credly.com/earner/earned/badge/637bc876-f884-416e-9450-3fe3cbeb809e" target="_blank" title="CKS: Certified Kubernetes Security Specialist">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/cks.png" alt="CKS: Certified Kubernetes Security Specialist" width="150" />
+</a>
 </center>
