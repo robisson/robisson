@@ -68,4 +68,8 @@ On linkedin you have more information about the projects I participated and othe
 <a href="https://www.credly.com/earner/earned/badge/637bc876-f884-416e-9450-3fe3cbeb809e" target="_blank" title="CKS: Certified Kubernetes Security Specialist">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/cks.png" alt="CKS: Certified Kubernetes Security Specialist" width="150" />
 </a>
+
+<a href="https://www.credential.net/069a129b-67f0-4627-9f3d-95005925a7b3" target="_blank" title="Google Cloud Certified Professional DevOps Engineer">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/google-devops.png" alt="Google Cloud Certified Professional DevOps Engineer" width="150" />
+</a>
 </center>
