@@ -72,4 +72,8 @@ On linkedin you have more information about the projects I participated and othe
 <a href="https://www.credential.net/069a129b-67f0-4627-9f3d-95005925a7b3" target="_blank" title="Google Cloud Certified Professional DevOps Engineer">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/google-devops.png" alt="Google Cloud Certified Professional DevOps Engineer" width="150" />
 </a>
+  
+<a href="https://www.credential.net/2658f896-bf0c-4fb3-b288-207bda099dcb" target="_blank" title="Google Certified Professional Cloud Developer">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/google-developer.png" alt="Google Certified Professional Cloud Developer" width="150" />
+</a>
 </center>
