@@ -45,9 +45,6 @@ On linkedin you have more information about the projects I participated and othe
 <a href="https://www.credly.com/earner/earned/badge/6547bf79-aa5d-4629-ba06-e96e48dcbcb6" target="_blank" title="Microsoft Certified: Azure Solutions Architect Expert">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="150">
 </a>
-<a href="https://www.credly.com/badges/d6c09964-0d10-440f-9cdd-9ed44ef0b543" target="_blank" title="AWS Certified Solutions Architect – Professional">
-  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-professional.png" alt="AWS Certified Solutions Architect – Professional" width="150">
-</a>
 <a href="https://www.credly.com/badges/727592b7-9e97-48be-b3b7-adafef2e2947" target="_blank" title="Microsoft Certified: Azure Developer Associate">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/az-204.png" alt="Microsoft Certified: Azure Developer Associate" width="150">
 </a>
@@ -91,10 +88,19 @@ On linkedin you have more information about the projects I participated and othe
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/machine-learning-gcp.png"
     alt="Google Certified Professional Machine Learning Engineer" width="150" />
 </a>
-  
-<a href="https://www.credential.net/7907b6ef-ca06-44cc-9f6f-aef0ec9ebf8a" target="_blank"
+
+<a href="https://www.credly.com/badges/d6c09964-0d10-440f-9cdd-9ed44ef0b543" target="_blank" title="AWS Certified Solutions Architect – Professional">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-professional.png" alt="AWS Certified Solutions Architect – Professional" width="150">
+</a>
+
+<a href="https://www.credly.com/badges/c364a317-4130-4a91-8fe2-a28d22023a0b" target="_blank"
   title="AWS Certified DevOps Engineer – Professional">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-devops-engineer.png"
     alt="AWS Certified DevOps Engineer – Professional" width="150" />
+</a>    
+  
+<a href="https://www.credly.com/badges/bd5af077-9c09-47ce-af35-b66be1324195" target="_blank" title="AWS Certified Machine Learning – Specialty">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-machine-learning-specialist.png" alt="AWS Certified Machine Learning – Specialty" width="150">
 </a>  
+  
 </center>
