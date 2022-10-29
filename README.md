@@ -97,8 +97,8 @@ On linkedin you have more information about the projects I participated and othe
   title="AWS Certified DevOps Engineer – Professional">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-devops-engineer.png"
     alt="AWS Certified DevOps Engineer – Professional" width="150" />
-</a>    
-  
+</a>
+
 <a href="https://www.credly.com/badges/bd5af077-9c09-47ce-af35-b66be1324195" target="_blank" title="AWS Certified Machine Learning – Specialty">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-machine-learning-specialist.png" alt="AWS Certified Machine Learning – Specialty" width="150">
 </a>  
