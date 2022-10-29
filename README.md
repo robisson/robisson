@@ -91,4 +91,10 @@ On linkedin you have more information about the projects I participated and othe
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/machine-learning-gcp.png"
     alt="Google Certified Professional Machine Learning Engineer" width="150" />
 </a>
+  
+<a href="https://www.credential.net/7907b6ef-ca06-44cc-9f6f-aef0ec9ebf8a" target="_blank"
+  title="AWS Certified DevOps Engineer – Professional">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-devops-engineer.png"
+    alt="AWS Certified DevOps Engineer – Professional" width="150" />
+</a>  
 </center>
