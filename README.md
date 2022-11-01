@@ -2,7 +2,7 @@
 
 I started my career in 2008 in the field of networks and data communication. Over the years I was an infrastructure analyst, development analyst in the technical area. I was also a development leader for many years, getting to do a spinoff of an IT area in a startup and acted as CTO.
 
-I currently work as a Software Architect at Sensedia. I'm mainly involved with cloud computing and development of event-oriented microservices architecture and APIs.
+I currently work as a Senior Cloud Application at Amazon Web Services(AWS). 
 
 On linkedin you have more information about the projects I participated and other experiences.
 
