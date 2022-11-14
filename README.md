@@ -102,5 +102,9 @@ On linkedin you have more information about the projects I participated and othe
 <a href="https://www.credly.com/badges/bd5af077-9c09-47ce-af35-b66be1324195" target="_blank" title="AWS Certified Machine Learning – Specialty">
   <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-machine-learning-specialist.png" alt="AWS Certified Machine Learning – Specialty" width="150">
 </a>  
+  
+<a href="https://www.credly.com/badges/538f41ad-85c7-4b9b-b4fe-141b09491bf8/linked_in_profile" target="_blank" title="AWS Certified Security – Specialty">
+  <img class="social-media-icon" src="https://www.robissonoliveira.com.br/blog/wp-content/uploads/certifications/aws-security-specilty.png" alt="AWS Certified Security – Specialty" width="150">
+</a>  
 
 </center>
